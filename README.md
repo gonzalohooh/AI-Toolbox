@@ -40,13 +40,13 @@ The repository is organized into directories based on the AI domain:
 
 **1. GAN for Biomedical Image Generation**
 - **Description**: This notebook demonstrates the training of a Generative Adversarial Network (GAN) to generate synthetic chest X-ray images.
-- **File**: `computer_vision/gan.ipynb`
+- **File**: `notebooks/computer_vision/Chest_X-Ray_Generator_GAN.ipynb`
 
 ### Natural Language Processing
 
-**1. Text Classification with BERT**
-- **Description**: This notebook demonstrates text classification using the BERT model on a sample dataset.
-- **File**: `natural_language_processing/Text_Classification_with_BERT.ipynb`
+**1. Named Entity Recognition with ALBERT**
+- **Description**: This notebook demonstrates named entity recognition (NER) using the ALBERT model on a sample biomedical dataset. The notebook shows how to load the dataset, preprocess the data, train the model, and evaluate its performance.
+- **File**: `notebooks/natural_language_processing/Biomedical_Albert_NER.ipynb`
 
 ### Signal Processing
 
