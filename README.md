@@ -11,6 +11,7 @@ Welcome to the AI-Toolbox repository! This repository contains various Jupyter N
   - [Computer Vision](#computer-vision)
   - [Natural Language Processing](#natural-language-processing)
   - [Signal Processing](#signal-processing)
+  - [Bioinformatics](#bioinformatics)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -33,6 +34,7 @@ The repository is organized into directories based on the AI domain:
 - **computer_vision**: Contains notebooks related to computer vision tasks such as image classification, object detection, and image generation.
 - **natural_language_processing**: Contains notebooks related to NLP tasks such as text classification, sentiment analysis, and language modeling.
 - **signal_processing**: Contains notebooks related to signal processing tasks such as time-series analysis and speech recognition.
+- **bioinformatics**: Contains notebooks related to bioinformatics tasks such as genomic data analysis, protein structure prediction, and biomedical data analysis.
 
 ## Notebooks
 
