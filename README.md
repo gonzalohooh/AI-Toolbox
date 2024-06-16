@@ -54,6 +54,13 @@ The repository is organized into directories based on the AI domain:
 - **Description**: This notebook demonstrates time-series forecasting using Long Short-Term Memory (LSTM) networks on a sample dataset.
 - **File**: `signal_processing/Time_Series_Forecasting_with_LSTM.ipynb`
 
+### Bioinformatics
+
+**1. Breast Cancer Wisconsin Dataset Analysis and Machine Learning**
+- **Description**:  This notebook demonstrates the analysis of the Breast Cancer Wisconsin dataset and applies machine learning to predict if a tumor is malignant or benign. The steps include data preprocessing, exploratory data analysis (EDA), and training a Random Forest classifier.
+- **File**: `notebooks/bioinformatics/Breast_Cancer_Analysis.ipynb`
+
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
