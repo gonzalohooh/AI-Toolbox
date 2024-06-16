@@ -40,7 +40,7 @@ The repository is organized into directories based on the AI domain:
 
 **1. GAN for Biomedical Image Generation**
 - **Description**: This notebook demonstrates the training of a Generative Adversarial Network (GAN) to generate synthetic chest X-ray images.
-- **File**: `computer_vision/GAN_for_Biomedical_Image_Generation.ipynb`
+- **File**: `computer_vision/gan.ipynb`
 
 ### Natural Language Processing
 
