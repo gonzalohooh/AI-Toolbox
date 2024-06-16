@@ -38,19 +38,19 @@ The repository is organized into directories based on the AI domain:
 
 ### Computer Vision
 
-** 1. GAN for Biomedical Image Generation**
+**1. GAN for Biomedical Image Generation**
 - **Description**: This notebook demonstrates the training of a Generative Adversarial Network (GAN) to generate synthetic chest X-ray images.
 - **File**: `computer_vision/GAN_for_Biomedical_Image_Generation.ipynb`
 
 ### Natural Language Processing
 
-** 1. Text Classification with BERT**
+**1. Text Classification with BERT**
 - **Description**: This notebook demonstrates text classification using the BERT model on a sample dataset.
 - **File**: `natural_language_processing/Text_Classification_with_BERT.ipynb`
 
 ### Signal Processing
 
-** 1. Time-Series Forecasting with LSTM**
+**1. Time-Series Forecasting with LSTM**
 - **Description**: This notebook demonstrates time-series forecasting using Long Short-Term Memory (LSTM) networks on a sample dataset.
 - **File**: `signal_processing/Time_Series_Forecasting_with_LSTM.ipynb`
 
