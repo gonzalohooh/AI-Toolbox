@@ -52,9 +52,9 @@ The repository is organized into directories based on the AI domain:
 
 ### Signal Processing
 
-**1. Time-Series Forecasting with LSTM**
-- **Description**: This notebook demonstrates time-series forecasting using Long Short-Term Memory (LSTM) networks on a sample dataset.
-- **File**: `signal_processing/Time_Series_Forecasting_with_LSTM.ipynb`
+**1. EEG Data Classification using Recurrent Neural Networks**
+- **Description**: This notebook demonstrates the classification of EEG (Electroencephalogram) data to determine whether a person's eyes are open or closed using recurrent neural networks (RNNs). It uses the EEG Eye State dataset from the UCI Machine Learning Repository, preprocesses it, trains an LSTM model, and evaluates its performance.
+- **File**: `notebooks/signal_processing/EEG_LSTM_Analysis.ipynb`
 
 ### Bioinformatics
 
