@@ -12,6 +12,7 @@ Welcome to the AI-Toolbox repository! This repository contains various Jupyter N
   - [Natural Language Processing](#natural-language-processing)
   - [Signal Processing](#signal-processing)
   - [Bioinformatics](#bioinformatics)
+  - [Reinforcement Learning](#reinforcement_learning)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -35,6 +36,8 @@ The repository is organized into directories based on the AI domain:
 - **natural_language_processing**: Contains notebooks related to NLP tasks such as text classification, sentiment analysis, and language modeling.
 - **signal_processing**: Contains notebooks related to signal processing tasks such as time-series analysis and speech recognition.
 - **bioinformatics**: Contains notebooks related to bioinformatics tasks such as genomic data analysis, protein structure prediction, and biomedical data analysis.
+- **reinforcement_learning**: Contains notebooks related to reinforcement learning tasks such as optimization and control in various domains.
+
 
 ## Notebooks
 
@@ -61,6 +64,13 @@ The repository is organized into directories based on the AI domain:
 **1. Breast Cancer Wisconsin Dataset Analysis and Machine Learning**
 - **Description**:  This notebook demonstrates the analysis of the Breast Cancer Wisconsin dataset and applies machine learning to predict if a tumor is malignant or benign. The steps include data preprocessing, exploratory data analysis (EDA), and training a Random Forest classifier.
 - **File**: `notebooks/bioinformatics/Breast_Cancer_Analysis.ipynb`
+
+
+### Reinforcement Learning
+
+**1. Reinforcement Learning for Optimizing Medication Dosage**
+- **Description**: This notebook demonstrates the application of reinforcement learning (RL) in optimizing the dosage of a medication over time to maximize patient health outcomes.
+- **File**: `notebooks/reinforcement_learning/Medication_Dosage_Optimization.ipynb`
 
 
 ## Contributing
