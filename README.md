@@ -14,7 +14,7 @@ Welcome to the AI-Toolbox repository! This repository contains various Jupyter N
   - [Natural Language Processing](#natural-language-processing)
   - [Signal Processing](#signal-processing)
   - [Bioinformatics](#bioinformatics)
-  - [Reinforcement Learning](#reinforcement_learning)
+  - [Reinforcement Learning](#reinforcement-learning)
 - [Contributing](#contributing)
 - [License](#license)
 
