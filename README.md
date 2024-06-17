@@ -1,5 +1,3 @@
-![alt text](https://github.com/gonzalohooh/AI-Toolbox/blob/main/img/logo.png?raw=true)
-
 <img src="img/logo.png" width="100" height="100">
 
 # AI-Toolbox
